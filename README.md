@@ -35,20 +35,19 @@
 
 ###
 
-<p align="left">I'm Gopi Govintharaj from Karur<br><br>- 🔭 Highly motivated and adaptable M.Sc Biotechnology graduate with a proven ability to analyze
+<p align="left">I'm Gopi Govintharaj from Karur<br><br>- 🔭 I am highly motivated and adaptable M.Sc Biotechnology graduate with a proven ability to analyze
 complex data, solve problems, and rapidly master new technologies. Bringing a strong scientific
 foundation combined with hands-on experience in bioinformatics and data management,
 complemented by a passion for coding and IT innovation. Known for excellent analytical
 thinking, attention to detail, and effective communication skills, enabling seamless collaboration
 with technical and non-technical teams. Eager to leverage my unique blend of scientific
 expertise and IT aptitude to drive impactful technology solutions and contribute meaningfully to
-a dynamic IT organization.<br><br>- 📚 I am currently learning more about advanced SAP SAC planning development.<br><br>-👨‍💻 All of my projects are available at https://mahalingam-g.github.io<br><br>-💬 Ask me about SAP Business Objects & SAP Analytics Cloud | Power BI & QlikView | Web Technologies | Python & PowerShell Automation<br><br>📫 How to reach me mahalingamgovintharaj@gmail.com<br><br>📄 Know about my experiences https://github.com/Mahalingam-G/Mahalingam-G.github.io/blob/main/assets/images/Mahalingam_Resume.pdf</p>
+a dynamic IT organization.<br><br>- 📚 I am currently learning more about advanced Technologies and programming languages.<br><br>-👨‍💻 All of my projects are available at https://gopi2003-g.github.io<br><br>-💬 Ask me about Web Technologies | Bio Technologies<br><br>📫 How to reach me gopi231@gmail.com<br><br>📄 Know about my experiences https://github.com/Gopi2003-G/Gopi2003-G.github.io/blob/main/assets/images/Gopi_Resume.pdf</p>
 
 ###
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mahalingam-g-954113193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahalingam Govintharaj" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lingavsp" target="blank"><img align="center" src="https://github.com/Mahalingam-G/Mahalingam-G/blob/main/HackerRank.png" alt="Mahalingam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gopi-g-204062275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gopi Govintharaj" height="30" width="40" /></a>
 </p>
 
 ###
