@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mahalingam-g-954113193/" target="_blank">
+  <a href="https://www.linkedin.com/in/gopi-g-204062275/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@infotechcoder2361" target="_blank">
@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mahalingam-G.Mahalingam-G&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gopi2003-G.Gopi2003-G&"  />
 </div>
 
 ###
@@ -35,8 +35,14 @@
 
 ###
 
-<p align="left">I'm Mahalingam Govintharaj from Chennai<br><br>- 🔭 I'm an experienced Application Developer with a strong focus on Global Business Intelligence, Power BI, and SAP Analytics Cloud (Planning). I have hands-on expertise with a wide range of tools, including SAP BI (SAP BO, UDT, IDT), QlikView, Power BI, Power Apps, SAP SAC, Python, and PowerShell scripting. My track record shows consistent performance, and I have a versatile skill set that enables me to handle various roles, tackle complex problems, and provide impactful analytic solutions. I'm adept at quickly earning and maintaining the trust and respect of my colleagues, management, and strategic partners.
-I'm also a keen and adaptable learner, always on the lookout for opportunities in challenging environments that offer plenty of room for learning and making meaningful contributions.<br><br>- 📚 I am currently learning more about advanced SAP SAC planning development.<br><br>-👨‍💻 All of my projects are available at https://mahalingam-g.github.io<br><br>-💬 Ask me about SAP Business Objects & SAP Analytics Cloud | Power BI & QlikView | Web Technologies | Python & PowerShell Automation<br><br>📫 How to reach me mahalingamgovintharaj@gmail.com<br><br>📄 Know about my experiences https://github.com/Mahalingam-G/Mahalingam-G.github.io/blob/main/assets/images/Mahalingam_Resume.pdf</p>
+<p align="left">I'm Gopi Govintharaj from Karur<br><br>- 🔭 Highly motivated and adaptable M.Sc Biotechnology graduate with a proven ability to analyze
+complex data, solve problems, and rapidly master new technologies. Bringing a strong scientific
+foundation combined with hands-on experience in bioinformatics and data management,
+complemented by a passion for coding and IT innovation. Known for excellent analytical
+thinking, attention to detail, and effective communication skills, enabling seamless collaboration
+with technical and non-technical teams. Eager to leverage my unique blend of scientific
+expertise and IT aptitude to drive impactful technology solutions and contribute meaningfully to
+a dynamic IT organization.<br><br>- 📚 I am currently learning more about advanced SAP SAC planning development.<br><br>-👨‍💻 All of my projects are available at https://mahalingam-g.github.io<br><br>-💬 Ask me about SAP Business Objects & SAP Analytics Cloud | Power BI & QlikView | Web Technologies | Python & PowerShell Automation<br><br>📫 How to reach me mahalingamgovintharaj@gmail.com<br><br>📄 Know about my experiences https://github.com/Mahalingam-G/Mahalingam-G.github.io/blob/main/assets/images/Mahalingam_Resume.pdf</p>
 
 ###
 <h3 align="left">Connect with me:</h3>
