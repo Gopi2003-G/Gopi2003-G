@@ -42,7 +42,7 @@ complemented by a passion for coding and IT innovation. Known for excellent anal
 thinking, attention to detail, and effective communication skills, enabling seamless collaboration
 with technical and non-technical teams. Eager to leverage my unique blend of scientific
 expertise and IT aptitude to drive impactful technology solutions and contribute meaningfully to
-a dynamic IT organization.<br><br>- 📚 I am currently learning more about advanced Technologies and programming languages.<br><br>-👨‍💻 All of my projects are available at https://gopi2003-g.github.io<br><br>-💬 Ask me about Web Technologies | Bio Technologies<br><br>📫 How to reach me gopi231@gmail.com<br><br>📄 Know about my experiences https://github.com/Gopi2003-G/Gopi2003-G.github.io/blob/main/assets/images/Gopi_Resume.pdf</p>
+a dynamic IT organization.<br><br>- 📚 I am currently learning more about advanced Technologies and programming languages.<br><br>-👨‍💻 All of my projects are available at https://gopi2003-g.github.io<br><br>-💬 Ask me about Web Technologies | Bio Technologies<br><br>📫 How to reach me gopianna231@gmail.com<br><br>📄 Know about my experiences https://github.com/Gopi2003-G/Gopi2003-G.github.io/blob/main/assets/images/Gopi_Resume.pdf</p>
 
 ###
 <h3 align="left">Connect with me:</h3>
